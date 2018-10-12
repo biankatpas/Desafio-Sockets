@@ -11,4 +11,4 @@ Atividade de Sistemas Distribuidos. Uso de sockets: envio de arquivos entre clie
 ### Cliente
 <code>gcc cliente.c -o client</code>
 
-<code>./client ip port file_path</code>
+<code>./client ip 1234 file_path</code>
